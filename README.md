@@ -5,4 +5,6 @@ Il codice si trova: swagger-spring/src/main/java/io/swagger/api/Flora/FloraApiCo
 
 
 Esempio ngrok
+
+
 ngrok genera l'url "http://10e4-2001-b07-a56-c2cf-a5cf-9902-b7fc-5216.ngrok.io", per collegare i conversational form al web service bisognerà scrivere http://10e4-2001-b07-a56-c2cf-a5cf-9902-b7fc-5216.ngrok.io/Flora/submit" oppure "http://10e4-2001-b07-a56-c2cf-a5cf-9902-b7fc-5216.ngrok.io/Flora/values" per i valori ammissibili del form della giunta comunale.
